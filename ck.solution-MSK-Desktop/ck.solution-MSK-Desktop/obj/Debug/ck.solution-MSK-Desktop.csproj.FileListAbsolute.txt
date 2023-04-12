@@ -1,0 +1,14 @@
+C:\Users\saidk\Desktop\ck-solution\ck.solution-MSK-Desktop\ck.solution-MSK-Desktop\bin\Debug\ck.solution-MSK-Desktop.exe.config
+C:\Users\saidk\Desktop\ck-solution\ck.solution-MSK-Desktop\ck.solution-MSK-Desktop\bin\Debug\ck.solution-MSK-Desktop.exe
+C:\Users\saidk\Desktop\ck-solution\ck.solution-MSK-Desktop\ck.solution-MSK-Desktop\bin\Debug\ck.solution-MSK-Desktop.pdb
+C:\Users\saidk\Desktop\ck-solution\ck.solution-MSK-Desktop\ck.solution-MSK-Desktop\obj\Debug\ck.solution_MSK_Desktop.Properties.Resources.resources
+C:\Users\saidk\Desktop\ck-solution\ck.solution-MSK-Desktop\ck.solution-MSK-Desktop\obj\Debug\ck.solution-MSK-Desktop.csproj.GenerateResource.cache
+C:\Users\saidk\Desktop\ck-solution\ck.solution-MSK-Desktop\ck.solution-MSK-Desktop\obj\Debug\ck.solution-MSK-Desktop.csproj.CoreCompileInputs.cache
+C:\Users\saidk\Desktop\ck-solution\ck.solution-MSK-Desktop\ck.solution-MSK-Desktop\obj\Debug\ck.solution-MSK-Desktop.exe
+C:\Users\saidk\Desktop\ck-solution\ck.solution-MSK-Desktop\ck.solution-MSK-Desktop\obj\Debug\ck.solution-MSK-Desktop.pdb
+C:\Users\saidk\Desktop\ck-solution\ck.solution-MSK-Desktop\ck.solution-MSK-Desktop\obj\Debug\ck.solution_MSK_Desktop.LoginForm.resources
+C:\Users\saidk\Desktop\ck-solution\ck.solution-MSK-Desktop\ck.solution-MSK-Desktop\obj\Debug\ck.solution_MSK_Desktop.ManageUsers.resources
+C:\Users\saidk\Desktop\ck-solution\ck.solution-MSK-Desktop\ck.solution-MSK-Desktop\obj\Debug\ck.solution_MSK_Desktop.Items.resources
+C:\Users\saidk\Desktop\ck-solution\ck.solution-MSK-Desktop\ck.solution-MSK-Desktop\obj\Debug\ck.solution_MSK_Desktop.Home.resources
+C:\Users\saidk\Desktop\ck-solution\ck.solution-MSK-Desktop\ck.solution-MSK-Desktop\obj\Debug\ck.solution_MSK_Desktop.Orders.resources
+C:\Users\saidk\Desktop\ck-solution\ck.solution-MSK-Desktop\ck.solution-MSK-Desktop\obj\Debug\ck.solution-MSK-Desktop.csproj.AssemblyReference.cache
